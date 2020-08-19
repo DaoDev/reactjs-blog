@@ -5,7 +5,7 @@ import App from '../../App';
 const Home = props =>{
     return (
         <div>
-            
+            Home
         </div>
     )
 }
